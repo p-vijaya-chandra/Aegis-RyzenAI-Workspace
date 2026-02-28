@@ -1,0 +1,8 @@
+onnxruntime-genai>=0.11.2
+onnxruntime-vitisai
+langchain
+langchain-community
+chromadb
+PyQt5
+pypdf
+sentence-transformers
